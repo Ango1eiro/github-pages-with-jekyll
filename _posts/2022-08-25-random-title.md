@@ -1,5 +1,5 @@
 ---
-title: "MY-TITLE"
+title: "Post #1"
 date: 2022-08-25
 ---
-quick draft
+first post
