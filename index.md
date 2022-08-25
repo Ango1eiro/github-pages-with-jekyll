@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my pAgeS"
+title: "Main page title"
 ---
 
-Lalalala ...
+Content of the main page
